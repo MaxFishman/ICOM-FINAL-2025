@@ -3,7 +3,7 @@
 ## 📅 Due: April 30th / May 7th
 
 ## 🧠 GOAL:
-Create a fully functional, **five-page website/app** that showcases your complete knowledge of HTML, CSS, JavaScript, Wordpress, while utilizing best-practice SEO and Analytics techniques — they will include advanced formatting, styling, and embedded content. This project will simulate what its like building a real-world site with rich media, user inputted contact functionality, best practice code structure, accessibility, SEO, and analytics integration.
+Create a fully functional, **five-page website/app** that showcases your complete knowledge of HTML, CSS, JavaScript, Wordpress, while utilizing best-practice SEO and Analytics techniques — your site will include proper formatting, styling, and embedded content. This project will simulate what its like building a real-world site with rich media, user inputted contact functionality, best practice code structure, accessibility, SEO, and analytics integration.
 
 ---
 
@@ -143,7 +143,7 @@ You must use and correctly implement the following **HTML elements and typograph
 
 ## 🔥 Bonus Challenges (+10 Points Max)
 - Add a **dark/light mode toggle**
-- Build a **slideshow or modal popup**
+- Build a **slideshow or popup/lightbox window**
 - Use **CSS variables** for theme styling
 - Include a **404 Not Found** page
 - Use a **custom favicon**
