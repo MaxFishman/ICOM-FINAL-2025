@@ -2,22 +2,22 @@
 
 ## 📅 Due: April 30th / May 7th
 
-## 🧠 Objective:
-Create a fully functional, **five-page website** that showcases your complete knowledge of HTML, CSS, JavaScript, Wordpress and SEO and Analytics — with  advanced formatting, styling, and embedded content. This project will simulate what its like building a real-world site with rich media, user inputted contact functionality, best practice structure, accessibility, SEO, and analytics integration.
+## 🧠 GOAL:
+Create a fully functional, **five-page website/app** that showcases your complete knowledge of HTML, CSS, JavaScript, Wordpress, while utilizing best-practice SEO and Analytics techniques — they will include advanced formatting, styling, and embedded content. This project will simulate what its like building a real-world site with rich media, user inputted contact functionality, best practice code structure, accessibility, SEO, and analytics integration.
 
 ---
 
 ## ✅ Requirements
 
 ### 📄 Page Structure
-- A **minimum of 5 pages (seperate or one-page scroll) **:
+- A **minimum of 5 pages (seperate or one-page scroll) **: (Suggestions) 
   - Home
   - About
   - Gallery or Media Page
   - Blog or Project Page
   - Contact Page
 - Each page should have a consistent **navigation menu**.
-- Footer with copyright and links to privacy policy and terms etc.
+- Footer with copyright and links to privacy policy and siteterms etc.
 
 
 ---
@@ -81,6 +81,7 @@ You must use and correctly implement the following **HTML elements and typograph
 - Each image includes meaningful `alt` text
 - Headings used in proper hierarchical order (no skipping levels)
 - Sitemap or site index page (optional but encouraged)
+- proper file compression and media optimization for page speed etc. 
 
 ---
 
