@@ -88,7 +88,7 @@ You must use and correctly implement the following **HTML elements and typograph
 
 ### 💌 Contact Page
 - Include a working contact form:
-  - Use [Formspree.io](https://formspree.io/) or [Netlify Forms](https://docs.netlify.com/forms/setup/) if not using a backend
+  - Use [Formspree.io](https://formspree.io/) or [Netlify Forms](https://docs.netlify.com/forms/setup/) or w3forms if not using a backend
   - Must include input fields for name, email, and message
   - Styled submit button
 - Include alternate contact methods (email link, social links, etc.)
