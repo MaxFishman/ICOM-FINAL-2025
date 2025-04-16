@@ -163,7 +163,7 @@ During the final few weeks, each student will give a **5–7 minute presentation
   - How you handled responsive design
   - How you set up SEO and Analytics
   - Quick test across devices (phone) and browsers.
-- One feature or line of code you're **especially proud of**
+- One feature or section of code you're **especially proud of**
 - One thing you found challenging and how you solved it
 - A quick preview of future improvements you'd like to make
 - Include your live site and have your code easily available to be able to reference. 
