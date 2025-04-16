@@ -64,15 +64,10 @@ You must use and correctly implement the following **HTML elements and typograph
 ---
 
 ### 🛠️ Functionality + JS
-- Use **JavaScript** in at least two places:
-  - print your name , github username and contact information to the console so employers know its you coding the site! 
+- Use **JavaScript** in at least one place:
+  - print your name , github username and contact information to the console so nerds like me know its you coding the site! 
 
-  - An interactive element such as:
-    - Image lightbox
-    - Toggleable content (e.g., FAQ, dark mode)
-    - Modal window
-    - Slideshow or carousel
-- Form input fields should include `placeholder`, `required`, and `type` attributes
+
 
 ---
 
