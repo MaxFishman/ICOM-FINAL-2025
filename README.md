@@ -150,7 +150,7 @@ You must use and correctly implement the following **HTML elements and typograph
 - Build a **slideshow or modal popup**
 - Use **CSS variables** for theme styling
 - Include a **404 Not Found** page
-- Submit a **custom favicon**
+- Use a **custom favicon**
 
 ---
 
