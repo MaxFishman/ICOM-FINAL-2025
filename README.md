@@ -104,7 +104,8 @@ You must use and correctly implement the following **HTML elements and typograph
 
 ### 🔹 Option A: Custom Code
 - Built entirely with HTML, CSS, and JavaScript
-- Host on GitHub Pages or Netlify 
+- Host on GitHub Pages or Netlify
+- Must include readme.md file with information on your project
 
 ### 🔹 Option B: WordPress (Advanced Customization)
 - Must use a custom theme or customize using a builder like Elementor
